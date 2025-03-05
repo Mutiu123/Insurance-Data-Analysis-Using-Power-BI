@@ -58,3 +58,11 @@ This project involves the development of a **Power BI dashboard** for **Altimate
 ## Screenshots
 
 ![Screenshot demo1](https://github.com/Mutiu123/Insurance-Data-Analysis-Using-Power-BI/blob/main/demo/demo.jpg)
+
+## Female Only Filter
+
+![Female Only demo1](https://github.com/Mutiu123/Insurance-Data-Analysis-Using-Power-BI/blob/main/demo/Female%20only%20filter.jpg)
+
+## Health Insurance Filter
+
+![Health Insurance demo1](https://github.com/Mutiu123/Insurance-Data-Analysis-Using-Power-BI/blob/main/demo/Health%20Insurance.jpg)
