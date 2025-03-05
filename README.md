@@ -55,7 +55,6 @@ This project involves the development of a **Power BI dashboard** for **Altimate
 
 ---
 
-## Contributing
-Contributions to this project are welcome! If you have suggestions for improvements or additional features, feel free to open an issue or submit a pull request.
+## Screenshots
 
----
+![Screenshot demo1]()
