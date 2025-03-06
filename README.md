@@ -66,3 +66,11 @@ This project involves the development of a **Power BI dashboard** for **Altimate
 ## Health Insurance Filter
 
 ![Health Insurance demo1](https://github.com/Mutiu123/Insurance-Data-Analysis-Using-Power-BI/blob/main/demo/Health%20Insurance.jpg)
+
+## Published Customer Feedback
+
+![Published Customer Feedback](https://app.powerbi.com/groups/7edccc63-d396-490c-864f-7498bbbe4cf2/reports/3ed63285-07b8-4ea3-9a91-69bd3f7a9e5e/ceed9e8e8f892638e770?experience=power-bi)
+
+## Filtered Published Customer Feedback
+
+![Filtered Published Customer Feedback](https://github.com/Mutiu123/Insurance-Data-Analysis-Using-Power-BI/blob/main/demo/Filtered%20Published%20Customer%20Feedback.jpg)
