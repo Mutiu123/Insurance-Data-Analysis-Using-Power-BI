@@ -44,7 +44,7 @@ This project involves the development of a **Power BI dashboard** for **Altimate
 - **DAX (Data Analysis Expressions)**: For creating calculated columns and measures.
 - **SQL**: For querying and extracting data from SQL Server.
 
----
+-------
 
 ## How to Use
 1. Clone the repository to your local machine.
@@ -53,7 +53,7 @@ This project involves the development of a **Power BI dashboard** for **Altimate
 4. Explore the interactive dashboard to analyze insurance data.
 5. Use filters and slicers to drill down into specific segments.
 
----
+------
 
 ## Screenshots
 
